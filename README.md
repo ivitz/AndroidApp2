@@ -5,6 +5,6 @@ victivitz@gmail.com
 
 UnityPackage included.
 
-You can find .apk in Builds folder.
+You can find <b>.apk</b> in Builds folder.
 
-Scripts can be found here AndroidApp2/Assets/Resources/Scripts/
+Scripts can be found here <b>AndroidApp2/Assets/Resources/Scripts/</b>
